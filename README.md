@@ -1,5 +1,6 @@
 # sales-analytics
 Power BI end-to-end case study on retail sales and products optimization
+![Blinkit Sales Dashboard](my%20dashboard.png)
 
 **قوة البيانات | من فوضى الأرقام إلى تعظيم القيمة (سلسلة مشاريع تحليل البيانات #2)**
 
